@@ -1,9 +1,10 @@
 # gtech-02
 
-1. git clone
-2. criar nova branch
-3. Fazer alterações
-4. git add e git commit
-5. git push da nova branch
-6. abrir pull resquest
-7. aprovar pull request
+1. git clone (apenas a primeira vez)
+2. git pull
+3. criar nova branch
+4. Fazer alterações
+5. git add e git commit
+6. git push da nova branch
+7. abrir pull resquest
+8. aprovar pull request
