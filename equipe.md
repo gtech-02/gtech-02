@@ -5,3 +5,4 @@
 - Rafael César
 - Paulo Luan
 - Jefferson Frutuoso
+- João Lucas
