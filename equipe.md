@@ -7,3 +7,4 @@
 - Jefferson Frutuoso
 - Paulo Matheus
 - Maria Cibeli
+- Sara Vanessa
