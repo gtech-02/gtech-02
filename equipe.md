@@ -5,8 +5,8 @@
 - Rafael César
 - Paulo Luan
 - Jefferson Frutuoso
+- João Lucas
 - Paulo Matheus 
-- Victor de Souza
 - Rennan Mendes
 - Paulo Matheus
 - Maria Cibeli
@@ -15,6 +15,11 @@
 - lucius
 - sara
 - Victor de Souzagit 
+- Sara Vanessa
+- Mirella Gonçalves
+- victor alves
+- lucius
 - Samuel
 - Suyane
+
 
