@@ -6,7 +6,7 @@
 - Paulo Luan
 - Jefferson Frutuoso
 - João Lucas
-- Paulo Matheus 
+- Paulo Matheus
 - Victor de Souza
 - Rennan Mendes
 - Maria Cibeli
@@ -18,3 +18,4 @@
 - Suyane
 - Jhon Andrey
 - Marcos Vinissius
+- Samuel Silva
