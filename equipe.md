@@ -5,9 +5,14 @@
 - Rafael César
 - Paulo Luan
 - Jefferson Frutuoso
-- Paulo Matheus
 - marley souza
 - Victor de Souzagit 
-- Paulo Matheus
 - Maria Cibeli
 - Mirella Gonçalves
+- Paulo Matheus 
+- Victor de Souza
+- Rennan Mendes
+- Maria Cibeli
+- Mirella Gonçalves
+- Victor de Souzagit 
+- Samuel
