@@ -7,3 +7,7 @@
 - Jefferson Frutuoso
 - Paulo Matheus
 - marley souza
+- Victor de Souzagit 
+- Paulo Matheus
+- Maria Cibeli
+- Mirella Gonçalves
