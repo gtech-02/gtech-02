@@ -7,3 +7,6 @@
 - Jefferson Frutuoso
 - Paulo Matheus
 - Maria Cibeli
+- victor alves
+- lucius
+- sara
