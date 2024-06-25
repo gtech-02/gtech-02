@@ -10,3 +10,5 @@
 - victor alves
 - lucius
 - sara
+
+- Aula geração tech 25/06/2024
