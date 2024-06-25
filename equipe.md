@@ -4,3 +4,4 @@
 - Victor de Souza
 - Rafael César
 - Paulo Luan
+- Jefferson Frutuoso
