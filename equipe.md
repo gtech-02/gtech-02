@@ -6,3 +6,7 @@
 - Paulo Luan
 - Jefferson Frutuoso
 - Paulo Matheus 
+
+- Victor de Souza
+
+- Rennan Mendes
