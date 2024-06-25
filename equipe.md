@@ -18,5 +18,11 @@ Samuel
 =======
 - Paulo Matheus
 - Maria Cibeli
+<<<<<<< HEAD
 - Mirella Gonçalves
 >>>>>>> c521330efe805b4876716fede4963853929044b5
+=======
+- victor alves
+- lucius
+- sara
+>>>>>>> victoralves
