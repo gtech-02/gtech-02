@@ -5,6 +5,10 @@
 - Rafael César
 - Paulo Luan
 - Jefferson Frutuoso
+<<<<<<< HEAD
+- João Lucas
+- Paulo Matheus 
+=======
 - Paulo Matheus 
 - Rennan Mendes
 - Paulo Matheus
