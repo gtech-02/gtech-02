@@ -13,7 +13,6 @@
 - Mirella Gonçalves
 - victor alves
 - lucius
-- Victor de Souzagit 
 - Sara Vanessa
 - Samuel
 - Suyane
