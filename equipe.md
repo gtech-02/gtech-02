@@ -14,5 +14,6 @@
 - victor alves
 - lucius
 - Victor de Souzagit 
-- Samuel
 - Sara Vanessa
+- Samuel
+- Suyane
