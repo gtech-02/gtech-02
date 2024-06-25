@@ -11,4 +11,5 @@
 - Paulo Matheus
 - Maria Cibeli
 - Mirella Gonçalves
-
+- Victor de Souzagit 
+- Samuel
